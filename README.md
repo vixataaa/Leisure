@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/vixataaa/Leisure.svg?branch=master)](https://travis-ci.org/vixataaa/Leisure)
+
+
 # Course Project
 _Web applications with Node.js_
 
