@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+    - "7"
+before_install:
+    - cd leisure-project
+install:
+    - npm install
+    - gulp test:no-report
