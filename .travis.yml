@@ -5,4 +5,3 @@ before_install:
     - cd leisure-project
 install:
     - npm install
-    - gulp test:no-report
